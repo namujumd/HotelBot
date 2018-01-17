@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m5\Demos\After\HotelBot\HotelBot\obj\Debug\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m5\Demos\After\HotelBot\HotelBot\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="\\Mac\Dropbox\matthew-kruczek\microsoft-bot-framework-getting-started\microsoft-bot-framework-getting-started-m5\Demos\After\HotelBot\HotelBot\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
